@@ -3,7 +3,7 @@ My name is Anthony Trisano.
 This is my Wake Tech account.
 I am using this repository to do college assigments for my class.
 
-#About me
+\n#About me
 I am 17 years old. I am from New York. I currently am a senior in high school. I am a big fan football and baseball. I like to play video games.
 ##My Intrests 
 I like to play video games such as Madden, and The show. I also like to watch and play football and baseball. I am a big Minnesota Vikings and New York Yankees fan.

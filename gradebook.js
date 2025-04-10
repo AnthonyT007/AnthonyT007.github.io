@@ -8,3 +8,4 @@ function populateGradeBook(data) {
 const gradedata = fetchGradeData();
 populateGradebook(gradeData);
   
+/Public
